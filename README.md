@@ -9,6 +9,10 @@ This project helps with:
 5. Work with babel and parcel in same project
 6. How to use context API with hooks and class
 7. Usage of Portals
+8. Usage of Error Boundary
+9. Using CSS in JS with help of emotion
+10. Code splitting with lazy and Suspense
+11. Server Side Rendering (available only in SSR branch)
 
 To run the app in mock mode, run: npm run dev:mock
 
